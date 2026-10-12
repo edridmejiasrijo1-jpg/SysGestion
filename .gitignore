@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno y claves
+.env
+*.pem
+
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Compilados y registros
+dist/
+build/
+*.log
